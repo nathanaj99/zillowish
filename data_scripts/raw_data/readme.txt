@@ -1,0 +1,1 @@
+raw data can be downloaded at https://www.zillow.com/research/data/
